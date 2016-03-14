@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Json having start server script",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Starting the NodeJS server')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujitksingh/NodeJSProject1.git"
+  },
+  "author": "Sujit Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujitksingh/NodeJSProject1/issues"
+  },
+  "homepage": "https://github.com/sujitksingh/NodeJSProject1#readme"
+}
