@@ -4,7 +4,7 @@
   "description": "Json having start server script",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('Starting the NodeJS server')"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
